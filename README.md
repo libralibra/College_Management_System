@@ -1,5 +1,8 @@
 # College Management System
 
+Blog:
+https://www.geeksforgeeks.org/college-management-system-using-django-python-project/
+
 Website:
 http://cmscollegemanagementsystem.pythonanywhere.com/
 
